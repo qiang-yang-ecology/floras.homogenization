@@ -1,4 +1,4 @@
-This repository includes the core data and R codes for the manuscript: Yang et al. Global homogenization of regional floras.
+This repository includes the core data and R codes for the manuscript: Yang et al. The global loss of floristic uniqueness.
 
 
 Files in this repository include:
