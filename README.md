@@ -17,6 +17,8 @@ df.tidy.pairwise.similarity.and.homogenization.Rdata: including the extent of ho
 
 df_island.Rdata: indicating whether one region is an island or mainland region.
 
+df.MRM.permutation: permutation results of the MRM analysis.
+
 gams.LL.Rdata: results of the generalized additive models.
 
 new.data.explanatory.variable.Rdata: a new dataset of the explanatory variables to make predictions.
